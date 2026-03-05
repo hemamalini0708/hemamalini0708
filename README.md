@@ -1,6 +1,6 @@
 # **👋 Hi, I'm Hema Malini**   
 
-<img align="right" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="250"/>
+<img align="right" src="https://github.com/hemamalini0708/Gif/blob/main/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7-ezgif.com-gif-maker.gif" width="350"/>
 
    
 <p align="left">
