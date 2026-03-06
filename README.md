@@ -38,11 +38,6 @@
 - Model Deployment basics (API integration, lightweight ML apps)  
 - Strengthening ML model optimization & evaluation techniques  
 
-### Project Highlights
-- **Credit Risk Prediction** – Built classification models to predict financial risk using ML algorithms. https://github.com/hemamalini0708/Credit-Card-Risk-Prediction
-- **Sentiment Analysis** – Developed NLP model to classify text reviews with preprocessing and feature engineering. https://github.com/hemamalini0708/Sentiment_Analysis
-- **Food Image Classification** – Designed CNN-based deep learning model for image categorization. https://github.com/hemamalini0708/Food_Classification_Using_CNN
-
 ### **Ask Me About**
 
   Machine Learning, Python for Data Science, SQL, NLP, Deep Learning and data-driven problem solving
